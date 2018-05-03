@@ -164,10 +164,6 @@ public class ParentsAndBanks {
         }
     }
 
-    // todo add initializer for dynamic variables
-    // get num kids
-
-    //
     public static void main(String[] args) {
         /* initialize basic runtime parameters */
         int numKids = 1;
